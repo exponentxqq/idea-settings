@@ -1,0 +1,24 @@
+<keymap version="1" name="GNOME copy" parent="Default for GNOME">
+  <action id="CloseAllEditorsButActive">
+    <keyboard-shortcut first-keystroke="alt a" />
+  </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+    <keyboard-shortcut first-keystroke="alt w" />
+  </action>
+  <action id="CopyElement" />
+  <action id="DatabaseView.CopyTable" />
+  <action id="Graph.ApplyCurrentLayout" />
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
+    <keyboard-shortcut first-keystroke="alt l" />
+  </action>
+  <action id="ShowSettings">
+    <keyboard-shortcut first-keystroke="ctrl alt s" />
+    <keyboard-shortcut first-keystroke="ctrl comma" />
+  </action>
+  <action id="Synchronize">
+    <keyboard-shortcut first-keystroke="ctrl alt y" />
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
+</keymap>
