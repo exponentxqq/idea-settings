@@ -1,7 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '~/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/2.2.2.RELEASE/f1a256beaabd2f2314e8a4286713b2d4770378fc/spring-boot-2.2.2.RELEASE-sources.jar!/org/springframework/boot/SpringApplication.java [Gradle: org.springframework.boot:spring-boot:2.2.2.RELEASE]'" />
-    <option name="defaultScopeName" value="File '~/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/2.2.2.RELEASE/f1a256beaabd2f2314e8a4286713b2d4770378fc/spring-boot-2.2.2.RELEASE-sources.jar!/org/springframework/boot/SpringApplication.java [Gradle: org.springframework.boot:spring-boot:2.2.2.RELEASE]'" />
-    <option name="SEARCH_SCOPE" value="File '~/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/2.2.2.RELEASE/f1a256beaabd2f2314e8a4286713b2d4770378fc/spring-boot-2.2.2.RELEASE-sources.jar!/org/springframework/boot/SpringApplication.java [Gradle: org.springframework.boot:spring-boot:2.2.2.RELEASE]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>

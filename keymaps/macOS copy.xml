@@ -1,0 +1,22 @@
+<keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="CopyElement" />
+  <action id="EditorAddRectangularSelectionOnMouseDrag">
+    <mouse-shortcut keystroke="shift meta alt button1" />
+    <mouse-shortcut keystroke="alt button1" />
+  </action>
+  <action id="EditorCreateRectangularSelectionOnMouseDrag">
+    <mouse-shortcut keystroke="button2" />
+  </action>
+  <action id="Graph.ApplyCurrentLayout" />
+  <action id="QuickEvaluateExpression">
+    <keyboard-shortcut first-keystroke="meta alt f8" />
+  </action>
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="ctrl g" />
+    <keyboard-shortcut first-keystroke="alt j" />
+  </action>
+  <action id="Synchronize">
+    <keyboard-shortcut first-keystroke="meta alt y" />
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
+</keymap>
