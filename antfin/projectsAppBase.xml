@@ -1,0 +1,18 @@
+<application>
+  <component name="AlipayAppBaseInfoProject">
+    <option name="projects">
+      <map>
+        <entry key="/develop/person/java/java-demo">
+          <value>
+            <AppBaseInfo>
+              <option name="appId" value="2021001161678371" />
+              <option name="appName" value="exptest" />
+              <option name="appType" value="MOBILEAPP" />
+              <option name="logoUrl" value="https://tfsimg.alipay.com/images/openhome/TB12hjib.iHDuNkUQtAwu1igXXa.png" />
+            </AppBaseInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>
