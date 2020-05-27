@@ -6,6 +6,10 @@
           <option name="url" value="http://gitlab.danatech.cn" />
           <option name="userName" value="xu.qinqin@danatech.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.glority.cn" />
+          <option name="userName" value="xu.qinqin" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
